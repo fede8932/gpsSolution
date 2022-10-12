@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb5fdcd8.css",
+    "main.js": "/static/js/main.49540a75.js",
+    "static/js/787.37e9c6c2.chunk.js": "/static/js/787.37e9c6c2.chunk.js",
+    "static/media/fondoSidebar.jpg": "/static/media/fondoSidebar.8e5da45f08aa1f80e69e.jpg",
+    "static/media/fondoApp.jpg": "/static/media/fondoApp.5820f48cf2d10d396810.jpg",
+    "static/media/logo.png": "/static/media/logo.5eb9b140bb5daeef85d6.png",
+    "static/media/singleUser.jpg": "/static/media/singleUser.577683f4000f23f7a4fb.jpg",
+    "static/media/device2.webp": "/static/media/device2.1168184d239169162ba6.webp",
+    "static/media/buscarCliente.jpg": "/static/media/buscarCliente.845b240c0606d0ddd917.jpg",
+    "static/media/nuevoUsuario.png": "/static/media/nuevoUsuario.a6fa230f23c4ca51b378.png",
+    "static/media/vehiculo.webp": "/static/media/vehiculo.c5926db3678ef3868095.webp",
+    "static/media/vehicleSearch.png": "/static/media/vehicleSearch.7909d4aad001efd5881a.png",
+    "index.html": "/index.html",
+    "static/media/truck.svg": "/static/media/truck.85a1997d70ae01fe8911b52574dd9362.svg",
+    "static/media/user-plus.svg": "/static/media/user-plus.7df9a289df2eaf4229e6091b340a9799.svg",
+    "static/media/device.svg": "/static/media/device.c98e345c042d5a4d2ec2d61b307258cd.svg",
+    "static/media/search.svg": "/static/media/search.f9705ffe407455bd10ed6827af98d123.svg",
+    "main.bb5fdcd8.css.map": "/static/css/main.bb5fdcd8.css.map",
+    "main.49540a75.js.map": "/static/js/main.49540a75.js.map",
+    "787.37e9c6c2.chunk.js.map": "/static/js/787.37e9c6c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5fdcd8.css",
+    "static/js/main.49540a75.js"
+  ]
+}

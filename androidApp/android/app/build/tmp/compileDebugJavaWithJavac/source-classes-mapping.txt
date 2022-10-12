@@ -1,0 +1,14 @@
+com/mygpsapp/BuildConfig.java
+ com.mygpsapp.BuildConfig
+com/mygpsapp/ReactNativeFlipper.java
+ com.mygpsapp.ReactNativeFlipper
+ com.mygpsapp.ReactNativeFlipper$1
+ com.mygpsapp.ReactNativeFlipper$2
+ com.mygpsapp.ReactNativeFlipper$2$1
+com/mygpsapp/MainActivity.java
+ com.mygpsapp.MainActivity
+com/mygpsapp/MainApplication.java
+ com.mygpsapp.MainApplication
+ com.mygpsapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
